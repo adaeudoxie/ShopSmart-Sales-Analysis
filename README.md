@@ -57,7 +57,7 @@ Revenue per sale is calculated for each order as follows:
 Only completed orders were used in processing the revenue and other finaicl figures, as they were the only orders that can be confirmed to have pulled money into the business.
 
 ## Dashboard
-![Executive Dashboard]((https://github.com/adaeudoxie/ShopSmart-Sales-Analysis/blob/main/Dashboard/Executive%20Dashboard.png))
+[Executive Dashboard](https://github.com/adaeudoxie/ShopSmart-Sales-Analysis/blob/main/Dashboard/Executive%20Dashboard.png)
 
 | KPI | Value |
 |---|---|
